@@ -57,7 +57,8 @@ Siga o passo a passo abaixo:
   >>> As informações foram extraídas para a pasta ExactTime-main.
 
 	# Abrir o projeto
-  ❯ Abra a pasta ExactTime-main, clique com o botão direito sobre o arquivo index.html, selecione "abrir com", e selecione o navegaor de sua preferência.
+  ❯ Abra a pasta ExactTime-main, clique com o botão direito sobre o arquivo index.html.
+  Selecione "abrir com", e selecione o navegaor de sua preferência.
 ```
 ---
 ## ⚠️ *Erros comuns* ⚠️
